@@ -1,0 +1,1 @@
+# brewery-monitor-vibecoding-doc
