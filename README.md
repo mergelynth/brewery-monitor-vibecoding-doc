@@ -92,7 +92,7 @@ Language selection is automatic and can be adjusted by the user.
 ![Management Panel](screens/management.png)
 
 ### Planning Rules
-![Planning Rules](screens/planningg.png)
+![Planning Rules](screens/planning.png)
 
 ### Notifications Overview
 ![Notifications Overview](screens/notifications.png)
