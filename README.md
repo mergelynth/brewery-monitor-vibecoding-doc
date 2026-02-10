@@ -91,6 +91,9 @@ Language selection is automatic and can be adjusted by the user.
 ### Management Panel
 ![Management Panel](screens/management.png)
 
+### Planning Rules
+![Planning Rules](screens/planningg.png)
+
 ### Notifications Overview
 ![Notifications Overview](screens/notifications.png)
 
